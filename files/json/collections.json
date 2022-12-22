@@ -1,0 +1,15 @@
+{
+	"collections": [
+		{
+			"id": 1,
+			"titel": "Way Kambas Maple",
+			"img": "img/collections/1.png",
+			"price": {
+				"value": "1.280.000",
+				"old-value": "1.580.000"
+			},
+			"category": 1,
+			"url": "https://www.google.com/"
+		}
+	]
+}
